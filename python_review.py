@@ -28,8 +28,6 @@ for i in range(7):
 
 avg_temp /= 7
 
-
-
 print("The weather report:")
 for i in range(7):
 	print("Temperature of the days: " + str(days_of_the_week[i]) + ": " + str(temperatures[i]))
